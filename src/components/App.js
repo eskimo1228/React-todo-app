@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
+import '../App.css';
 
-import Form from './components/Form';
-import List from './components/List';
+import Form from './Form';
+import List from './List';
 
 class App extends Component {
 
