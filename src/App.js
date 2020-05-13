@@ -12,10 +12,7 @@ class App extends Component {
     this.state = {
       errorMessage: null,
       inputValue: "",
-      todos: [
-        { value: 'Wash the car', done: false },
-        { value: 'Clean the kitchen', done: true }
-      ]
+      todos: []
     }
 
   }
