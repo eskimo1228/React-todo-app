@@ -11,7 +11,7 @@ class App extends Component {
 
     this.state = {
       errorMessage: null,
-      inputValue: "Test A",
+      inputValue: "",
       todos: []
     }
 
